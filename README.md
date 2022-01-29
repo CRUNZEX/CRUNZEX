@@ -10,4 +10,4 @@
 <code> <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/dart/dart.png"> </code>
 
 ## 📈 My Github Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=CRUNZEX&count_private=true&show_icons=true&hide_title=true&include_all_commits=true&theme=radical" alt="CRUNZEX Stats" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=CRUNZEX&count_private=true&show_icons=true&hide_title=true&theme=radical" alt="CRUNZEX Stats" />
